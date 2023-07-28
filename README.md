@@ -2,7 +2,7 @@
 description: Here you will learn how to use the T-Drive app to its full potential!
 ---
 
-# 👋 Welcome to Manual
+# 👋 T-Drive Manual
 
 {% hint style="info" %}
 **This wiki** is unofficial and created by the community.
@@ -32,10 +32,10 @@ Screenshots:
 
 To start using the product, begin with these steps:
 
-{% content-ref url="welcome-to-manual/system-requirements.md" %}
-[system-requirements.md](welcome-to-manual/system-requirements.md)
+{% content-ref url="t-drive-manual/system-requirements.md" %}
+[system-requirements.md](t-drive-manual/system-requirements.md)
 {% endcontent-ref %}
 
-{% content-ref url="welcome-to-manual/installation-and-login.md" %}
-[installation-and-login.md](welcome-to-manual/installation-and-login.md)
+{% content-ref url="t-drive-manual/installation-and-login.md" %}
+[installation-and-login.md](t-drive-manual/installation-and-login.md)
 {% endcontent-ref %}

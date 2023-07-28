@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to Manual](README.md)
-  * [🙃 System Requirements](welcome-to-manual/system-requirements.md)
-  * [🛠 Installation and Login](welcome-to-manual/installation-and-login.md)
+* [👋 T-Drive Manual](README.md)
+  * [🙃 System Requirements](t-drive-manual/system-requirements.md)
+  * [🛠 Installation and Login](t-drive-manual/installation-and-login.md)
 * [📺 Interface](interface.md)
 
 ## 🔦 Functions
